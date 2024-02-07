@@ -33,7 +33,7 @@ Botones de interacción:
 
 Alternativamente podés ingresar a la versión online: https://nlpz404.github.io/genTics/
 
-## Créditos
+# Créditos
 
 Este proyecto se basa parcialmente en el repositorio [Evolution_Simulator](https://github.com/KerrickC/Evolution_Simulator) de [KerrickC](https://github.com/KerrickC). Se ha utilizado parte de su código como punto de partida, el cual ha sido modificado y extendido para adaptarse a las necesidades específicas de [gen]Tics.
 
@@ -41,6 +41,6 @@ Este proyecto se basa parcialmente en el repositorio [Evolution_Simulator](https
 
 Los pull requests son bienvenidos. Para cambios importantes, por favor abrí un issue primero para discutir qué cambios te gustaría realizar.
 
-## Licencia
+# Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
