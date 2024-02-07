@@ -3,7 +3,7 @@
 
 Virtual, sonic, and interactive ecosystem developed in p5.js and tone.js. This ecosystem is inhabited by 'tics', small sound-generating cells. 'Tics' can move, eat, mutate, and reproduce with chances of inheritance. Users can interact with them by feeding them, altering their environment, or modifying some of their parameters.
 
-Here is an online version: [genTics](https://nlpz404.github.io/genTics/).
+Online version available: https://nlpz404.github.io/genTics/.
 
 ## Rules
 
