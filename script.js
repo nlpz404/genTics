@@ -40,11 +40,9 @@ function setup() {
   let botonPlay = createButton('Play');  // Agrega un botón "Play" en el centro del canvas
   botonPlay.position(width / 2 - 50, height / 2 - 25);
   botonPlay.size(100, 50);
-  // botonPlay.id = 'botonPlay';
   botonPlay.mousePressed(iniciarEscena); // Al tocar el botón, va a iniciar la escena (y el audio context)
 
-  mensajeBienvenida = createDiv("Bienvenidx a [gen]Tics!<br>Este es un ecosistema virtual habitado por tics, células sonoras.<br>Podrás interactuar con ellxs de distintas maneras:<br>-Clickea para alimentarlxs.<br>-'a' + click: crea un bosque. Los bosques aumentan la velocidad de lxs tics por 5 segundos.<br>-'s' + click: crea un desierto. En los desiertos no crece comida y lxs tics se mueven más lento dentro de ellos.<br>-'d' + click: crea una montaña. Las montañas son impenetrables.<br><br>Explora los botones que aparecen debajo del mapa, encontrarás otros mecanismos para interactuar con este mundo.");
-  // mensajeBienvenida.id('mensajeBienvenida');
+  mensajeBienvenida = createDiv("Bienvenidx a [gen]Tics!<br>Este es un ecosistema virtual habitado por tics, células sonoras.<br>Podrás interactuar con ellxs de distintas maneras:<br>-Clickea para alimentarlxs.<br>-'a' + click: crea un <font color = 'green'>bosque</font>. Los bosques aumentan la velocidad de lxs tics por 5 segundos.<br>-'s' + click: crea un <font color = 'DarkGoldenRod'>desierto</font>. En los desiertos no crece comida y lxs tics se mueven más lento dentro de ellos.<br>-'d' + click: crea una <font color = 'DarkRed'>montaña</font>. Las montañas son impenetrables.<br><br>Explora los botones que aparecen debajo del mapa, encontrarás otros mecanismos para interactuar con este mundo.");
   mensajeBienvenida.style('background-color', 'lightgray'); // Relleno color gris claro
   mensajeBienvenida.style('font-size', '14px')
   mensajeBienvenida.style('padding', '10px');
