@@ -26,21 +26,21 @@ Botones de interacción:
 - Resetear la comida.
 - Aumentar temporalmente la velocidad y rango de visión de una especie.
 
-# Instalación y Uso
+## Instalación y Uso
 
     1. Cloná este repositorio en tu máquina local.
     2. Abrí el archivo index.html en tu navegador web.
 
 Alternativamente podés ingresar a la versión online: https://nlpz404.github.io/genTics/
 
-# Créditos
+## Créditos
 
 Este proyecto se basa parcialmente en el repositorio [Evolution_Simulator](https://github.com/KerrickC/Evolution_Simulator) de [KerrickC](https://github.com/KerrickC). Se ha utilizado parte de su código como punto de partida, el cual ha sido modificado y extendido para adaptarse a las necesidades específicas de [gen]Tics.
 
-# Contribución
+## Contribución
 
 Los pull requests son bienvenidos. Para cambios importantes, por favor abrí un issue primero para discutir qué cambios te gustaría realizar.
 
-# Licencia
+## Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
