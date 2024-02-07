@@ -38,7 +38,7 @@ Alternatively, you can access the online version: [genTics](https://nlpz404.gith
 
 ## Credits
 
-This project is partially based on the [Evolution_Simulator](https://github.com/KerrickC/Evolution_Simulator) repository by [KerrickC](https://github.com/KerrickC). Part of its code has been used as a starting point, which has been modified and extended to suit the specific needs of [gen]Tics.
+This project is partially based on [Evolution_Simulator](https://github.com/KerrickC/Evolution_Simulator) by [KerrickC](https://github.com/KerrickC). Part of its code has been used as a starting point, which has been modified and extended to suit the specific needs of [gen]Tics.
 
 ## Contribution
 
